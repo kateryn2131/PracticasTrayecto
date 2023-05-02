@@ -1,0 +1,62 @@
+*{
+margin: 0;
+padding: 0;
+
+
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+
+.Movile-menu{
+    display: block;
+    width: 100%;
+    background: #8aa;
+    line-height: 1.6em;
+    font-weight: 400;
+    text-align: center;
+
+    position: relative;
+    margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+.Movile-menu li{
+
+    display: inline-block;
+    
+
+}
+
+
+
+
+
+ .Movile-menu ul{
+
+list-style-type: none;
+margin: 0 auto;
+padding-left: 0;
+text-align: center;
+width: 100%;
+position: absolute;
+background: red;
+
+}
+
+.Movile-menu li a{
+         
+    display: block;
+    min-width: 140px;
+    text-align: center;
+    color: black;
+    text-transform: uppercase
+}    
